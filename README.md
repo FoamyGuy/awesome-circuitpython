@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
+  <img style="max-width: 400px; width: 100%;" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
